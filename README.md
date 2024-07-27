@@ -5,7 +5,7 @@
 
 ## 💻 Sobre
 
-Projeto feito no intuito de me apresentar, como desenvolvedor web front-end.
+Projeto feito no intuito de me apresentar e demonstrar minhas habilidades técnicas, projetos e realizações como estudante de tecnologia.
 
 ## 🤯 O site é composto por:
 
