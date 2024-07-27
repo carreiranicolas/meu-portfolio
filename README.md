@@ -9,12 +9,13 @@ Projeto desenvolvido com o propósito de me apresentar, destacar minhas habilida
 
 ## 🤯 O site é composto por:
 
-- **Home:** Uma breve apresentação;
+- **Home:** Uma breve apresentação sobre mim;
 - **Sobre mim:** Falo um pouco sobre minha trajetória e meu estado atual;
-- **Projetos:** Alguns projetos recentes que fiz;
 - **Conhecimentos:** As tecnologias que tenho conhecimento;
-- **Fale comigo:** Área com meios para contato comigo;
-- **Redes:** Minhas redes sociais disponíveis no menu de navegação e no rodapé do site.
+- **Trajetória:** Minha trajetória profissional e acadêmica;
+- **Projetos:** Exemplos de projetos recentes que desenvolvi;
+- **Fale comigo:** As formas de entrar em contato comigo;
+- **Redes:** Links para minhas redes sociais, disponíveis no menu de navegação e no rodapé do site.
 
 ## 🧠 Tecnologias utilizadas:
 
