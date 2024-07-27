@@ -5,7 +5,7 @@
 
 ## 💻 Sobre
 
-Projeto desenvolvido com o propósito de me apresentar, destacar minha trajetória profissional e acadêmica, minhas habilidades, projetos, conquistas e certificações.
+Projeto desenvolvido com o propósito de me apresentar, destacar minhas habilidades, projetos, conquistas e certificações.
 
 ## 🤯 O site é composto por:
 
