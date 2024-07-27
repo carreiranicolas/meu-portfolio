@@ -5,14 +5,13 @@
 
 ## 💻 Sobre
 
-Projeto desenvolvido com o propósito de me apresentar, destacar minhas habilidades, trajetória profissional e acadêmica, projetos, conquistas e certificações.
+Projeto desenvolvido com o propósito de me apresentar, destacar minha trajetória profissional e acadêmica, minhas habilidades, projetos, conquistas e certificações.
 
 ## 🤯 O site é composto por:
 
 - **Home:** Uma breve apresentação sobre mim;
 - **Sobre mim:** Falo um pouco sobre minha trajetória e meu estado atual;
 - **Conhecimentos:** As tecnologias que tenho conhecimento;
-- **Trajetória:** Minha trajetória profissional e acadêmica;
 - **Projetos:** Exemplos de projetos recentes que desenvolvi;
 - **Fale comigo:** As formas de entrar em contato comigo;
 - **Redes:** Links para minhas redes sociais, disponíveis no menu de navegação e no rodapé do site.
