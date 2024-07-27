@@ -5,7 +5,7 @@
 
 ## 💻 Sobre
 
-Projeto feito no intuito de me apresentar e demonstrar minhas habilidades técnicas, projetos e realizações como estudante de tecnologia.
+Projeto desenvolvido com o propósito de me apresentar e destacar minhas habilidades técnicas, trajetória profissional e acadêmica, projetos, conquistas e certificações.
 
 ## 🤯 O site é composto por:
 
