@@ -35,14 +35,4 @@ Neste projeto apliquei os seguintes pontos:
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/carreiranicolas.png" width="100px" />
-    </td>
-    <td>
-      Feito por <a href="https://github.com/carreiranicolas">Nicolas Carreira.</a> 
-    </td>
-  </tr>
-</table>
 
