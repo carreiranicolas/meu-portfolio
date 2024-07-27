@@ -5,7 +5,7 @@
 
 ## 💻 Sobre
 
-Projeto desenvolvido com o propósito de me apresentar, destacar minhas habilidades, projetos, conquistas e certificações.
+Projeto desenvolvido com o propósito de me apresentar e destacar minhas habilidades e projetos.
 
 ## ⚙ O site é composto por: 
 
